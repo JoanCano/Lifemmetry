@@ -1,6 +1,8 @@
 # Equipo necesario
 
+ selección de equipos y software, que proporcionan un equilibrio entre Eficiencia, coste y calidad.
 
+La fotogrametría también es inherentemente "portátil": en la mayoría de los casos, el equipo \(cámara, trípode, flashes\) puede caber en una pequeña bolsa para la cámara, lo que lo convierte en una herramienta particularmente útil para grabar en sitios remotos o peligrosos.
 
 * **CÁMARA DE FOTOS:** Para lograr el mejor equilibrio entre tiempo invertido y detalles capturados optamos por una cámara de alta resolución como la [**Canon 5DS R**](https://www.canon.es/for_home/product_finder/cameras/digital_slr/eos_5ds_r/) de 50Mp que, al no tener filtro de paso bajo, nos proporciona más nitidez. Recordemos que cuanta más resolución y nitidez más preciso va a ser el resultado del escaneo. Otra alternativa interesante podría ser la [**Sony A7 r2**](https://www.sony.es/electronics/camaras-lentes-intercambiables/ilce-7rm2) de 42Mp. Estas cámaras son caras y ofrecen excelentes resultados, pero se puede utilizar cualquier cámara para hacer fotogrametría, lo importante es empezar a practicar y descubrir las necesidades de equipo poco a poco.
 * **LENTE:** En este sentido es recomendable contar con una lente lo mas nítida posible, en nuestro caso contamos con varias lentes Prime de alta calidad de 35mm, 50mm y Macro para cuando es necesario escanear objetos muy pequeños. Pero nuevamente, para comenzar, es posible hacerlo con cualquier equipo que tengamos disponible.

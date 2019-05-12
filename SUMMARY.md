@@ -2,12 +2,15 @@
 
 * [Lifemmetry](README.md)
 * [Motivación](chapter1.md)
-* [Introducción a la fotogrametría](introduccion-a-la-fotogrametria.md)
+
+## Introducción a la fotogrametría
+
+* [Introducción a la fotogrametría](introduccion-a-la-fotogrametria-1/introduccion-a-la-fotogrametria.md)
+* [Principios básicos](introduccion-a-la-fotogrametria-1/untitled-1.md)
+* [Equipo necesario](introduccion-a-la-fotogrametria-1/equipo-necesario.md)
 
 ## Fotogrametría terrestre
 
-* [Principios básicos](fotogrametria-terrestre/untitled.md)
-* [Equipo necesario](fotogrametria-terrestre/equipo-necesario.md)
 * [Cómo capturar fotos](fotogrametria-terrestre/como-capturar-fotos.md)
 * [Balance de blancos](fotogrametria-terrestre/balance-de-blancos.md)
 * [Psotproceso imágenes](fotogrametria-terrestre/psotproceso-imagenes.md)
