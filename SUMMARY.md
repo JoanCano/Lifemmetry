@@ -6,7 +6,7 @@
 ## Introducción a la fotogrametría
 
 * [Introducción a la fotogrametría](introduccion-a-la-fotogrametria-1/introduccion-a-la-fotogrametria.md)
-* [Principios básicos](introduccion-a-la-fotogrametria-1/untitled-1.md)
+* [Entrañas](introduccion-a-la-fotogrametria-1/untitled-1.md)
 * [Equipo necesario](introduccion-a-la-fotogrametria-1/equipo-necesario.md)
 
 ## Fotogrametría terrestre

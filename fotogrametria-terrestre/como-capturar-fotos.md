@@ -24,6 +24,8 @@ Es importante mantener una distancia suficientemente constante del sujeto para m
 
 Para sujetos redondos, capture fotos cada 10 a 15 grados y superponga las fotos de inicio y final para completar el circuito. Repita el procedimiento anterior para capturar tres filas de fotografías colocadas correctamente. Para proyectos de giradiscos, el fondo del sujeto debe estar enmascarado para permitir que solo aquellos píxeles que caen sobre el sujeto en el subsiguiente proceso de procesamiento de SfM. Si no enmascara el fondo puede dañar su proyecto.
 
+los conjuntos de captura fotográfica se pueden adquirir usando combinaciones de cámara / lente no calibradas.
+
 Debe colocar la cámara digital en un trípode o soporte de cámara para lograr estabilidad y eliminar la vibración durante la captura de imágenes. Las bolsas de arena u otros pesos pueden ayudarlo a estabilizar aún más los trípodes
 
 El método recomendado es conectar la cámara a la computadora y usar la computadora para Contrólalo para probar tu configuración, y al disparar las imágenes. De esta manera, puedes disparar la cámara.
@@ -186,7 +188,7 @@ Se recomienda un flash de anillo sobre un flash de cobra, ya que produce sombras
 
 
 
-
+Sin la inclusión de objetos de longitud conocida en el proyecto, la fotogrametría genera representaciones 3D sin escala.
 
 
 

@@ -84,9 +84,9 @@ El pintor de sustancias permite a los artistas pintar un material en un objeto 3
 
 ### VLC media player: Video to frames [http://www.videolan.org/index.fr.html](http://www.videolan.org/index.fr.html)
 
+Calibración de nuestra cámara
 
-
-
+[https://docs.opencv.org/3.0-beta/doc/tutorials/calib3d/camera\_calibration/camera\_calibration.html](https://docs.opencv.org/3.0-beta/doc/tutorials/calib3d/camera_calibration/camera_calibration.html)
 
 
 
