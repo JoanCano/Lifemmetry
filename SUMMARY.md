@@ -13,7 +13,7 @@
 
 * [Cómo capturar fotos](fotogrametria-terrestre/como-capturar-fotos.md)
 * [Balance de blancos](fotogrametria-terrestre/balance-de-blancos.md)
-* [Psotproceso imágenes](fotogrametria-terrestre/psotproceso-imagenes.md)
+* [Postproceso imágenes](fotogrametria-terrestre/psotproceso-imagenes.md)
 * [Iluminación](fotogrametria-terrestre/iluminacion.md)
 * [Enemigos de la fotogrametría y soluciones](fotogrametria-terrestre/enemigos-de-la-fotogrametria-y-soluciones.md)
 * [Procesado de la imágenes en software fotogramétrico](fotogrametria-terrestre/procesado-de-la-imagenes-en-software-fotogrametrico.md)

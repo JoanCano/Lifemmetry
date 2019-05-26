@@ -10,7 +10,7 @@
 * La apertura de la cámara debe permanecer constante durante la secuencia de captura. En una cámara de 35 mm, es una buena práctica no ajustar la abertura más pequeña que f / 11. Con aberturas más pequeñas \(más altas\) que f / 11, se producen efectos de difracción que desenfocan la imagen, reduciendo significativamente la resolución de la cámara.
 * Use la configuración ISO más baja posible. Cuanto más alto sea el ajuste ISO, más ruido electrónico se genera en el sensor de la cámara. Este ruido hace más difícil la correspondencia de píxeles en diferentes fotografías.
 * Desactive la estabilización de imagen y gire automáticamente las funciones de la cámara.
-* En condiciones de luz variable \(por ejemplo, un día parcialmente nublado\), la cámara debe configurarse en modo manual o con prioridad de apertura \(use f / 5.6 – f / 11 para obtener las imágenes más nítidas\). La prioridad de apertura bloquea la apertura y nivela la exposición variando la velocidad de obturación. Es necesario mantener el punto de medición de la exposición en el sujeto de la imagen para obtener resultados consistentes. Ponga su cámara en el modo de medidores de punto central .
+* En condiciones de luz variable \(por ejemplo, un día parcialmente nublado\), la cámara debe configurarse en modo manual o con prioridad de apertura \(use f/5.6 – f/11 para obtener las imágenes más nítidas\). La prioridad de apertura bloquea la apertura y nivela la exposición variando la velocidad de obturación. Es necesario mantener el punto de medición de la exposición en el sujeto de la imagen para obtener resultados consistentes. Ponga su cámara en el modo de medidores de punto central .
 * Para obtener los resultados de mayor precisión, asegúrese de que la configuración de la cámara no cambie para una secuencia de fotos determinada.
 * Si es necesario cambiar la configuración de la cámara o la lente, incluido el enfoque, agrupe las fotos subsiguientes en un conjunto diferente de las fotos anteriores. Calibre los conjuntos de fotos por separado, cada uno en su propio grupo de calibración.
 
@@ -186,9 +186,9 @@ Se recomienda un flash de anillo sobre un flash de cobra, ya que produce sombras
 
 
 
-
-
 Sin la inclusión de objetos de longitud conocida en el proyecto, la fotogrametría genera representaciones 3D sin escala.
+
+More tips
 
 
 
