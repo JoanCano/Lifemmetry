@@ -188,7 +188,17 @@ Se recomienda un flash de anillo sobre un flash de cobra, ya que produce sombras
 
 Sin la inclusión de objetos de longitud conocida en el proyecto, la fotogrametría genera representaciones 3D sin escala.
 
-More tips
+## More tips
+
+* Altas "F", para tener fotos lo más nítidas posible
+* Evitar las luces y sombras
+* Usar lentes fijas. Si tu dron utiliza cerca de 20mm, que la cámara lo haga también
+* Tomar imágenes con tu cámara en vertical
+* PARALAJE
+* Antes de ir al software fotogramétrico, pasar por darktable, lightroom, dcraw... etc
+* Que el color sea consistente
+
+
 
 
 

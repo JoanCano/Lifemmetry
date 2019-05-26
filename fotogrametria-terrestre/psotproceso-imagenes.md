@@ -90,7 +90,13 @@ Calibración de nuestra cámara
 
 [https://docs.opencv.org/3.0-beta/doc/tutorials/calib3d/camera\_calibration/camera\_calibration.html](https://docs.opencv.org/3.0-beta/doc/tutorials/calib3d/camera_calibration/camera_calibration.html)
 
+## Procesando en CapturingReality
 
+* Procesar las imágenes por separado \(dron y cámara de fotos\). Se pondrán puntos de control para unir ambas
+* Si estás en campo, prueba a hacer una malla como "Preview" para saber si puedes avanzar o necesitas cubrir alguna parte que te has dejado o queda poco definida.
+* Simplifica tu modelo, por ejemplo a 3m de triángulos
+* chequea integridad, topología y limpia el modelo
+* Texturiza o reproyecta con gutter como 1 para obtener la máxima calidad
 
 
 
