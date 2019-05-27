@@ -1,10 +1,10 @@
 # Entrañas
 
-El modo que tengo de entender los programas y herramientas que utilizo a diario, es conocer cómo trabajan y qué necesitan, antes de lanzarse a intentar obtener un resultado que lo más probable es que no nos sirva para nada.
+El modo que tengo de entender los programas y herramientas que utilizo a diario, es conocer cómo trabajan, antes de lanzarme a intentar obtener un resultado que lo más probable es que no nos sirva para NADA.
 
 ### ¿En qué se basan los software fotogramétricos?
 
-Siempre que vayamos a utilizar un software fotogramétrico, ya sea Pix4D, Agisoft, CapturingReality, Meshroom, etc., vamos a utilizar **imágenes**. Éstas pasarán por un **primer procedimiento** en el cual se **extraen grupos distintivos de píxeles**. El método de detección de características más conocido es el algoritmo SIFT \(transformación de característica invariante de escala\). El objetivo inicial de SIFT es extraer parches discriminativos en una primera imagen que puedan compararse con parches discriminativos de una segunda imagen, independientemente de la rotación, la traducción y la escala.
+Siempre que vayamos a utilizar un software fotogramétrico \(Pix4D, Agisoft, CapturingReality, Meshroom, etc.\) vamos a utilizar **imágenes**. Éstas pasarán por un **primer procedimiento** en el cual se **extraen grupos distintivos de píxeles**. El método de detección de características más conocido es el algoritmo SIFT \(transformación de característica invariante de escala\). El objetivo inicial de SIFT es extraer parches discriminativos en una primera imagen que puedan compararse con parches discriminativos de una segunda imagen, independientemente de la rotación, la traducción y la escala.
 
 {% hint style="info" %}
 Ahora que conocemos el primer procedimiento, podemos llegar a una conclusión muy sencilla:
