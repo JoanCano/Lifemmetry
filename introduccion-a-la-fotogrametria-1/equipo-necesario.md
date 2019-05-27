@@ -28,11 +28,5 @@ _**NOTA:** Es posible sustituir los flashes de estudio por un sistema con polari
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
-## **SOFTWARE NECESARIO**
-
-![](../.gitbook/assets/image%20%286%29.png)
-
-**Panorama actual de software para fotogrametría**
-
 
 
